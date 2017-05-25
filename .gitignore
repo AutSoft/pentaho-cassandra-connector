@@ -1,0 +1,39 @@
+*.iml
+
+## Directory-based project format:
+.idea/
+
+## File-based project format:
+*.ipr
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+build/
+.checkstyle
+
+# Gradle
+.gradle/
+gradle.properties
+
+# Certificate
+*.jks
+
+# GraphHopper
+graphhopper/
+
+# Mac
+.DS_Store
+
+*.pbf
